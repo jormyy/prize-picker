@@ -1,0 +1,2191 @@
+[
+    {
+        "league": "NBA",
+        "stats": {
+            "Points": {
+                "Joel Embiid": [
+                    "33.5",
+                    {
+                        "team": "PHI",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Joel_Embiid_bf9ad0fd-0cb8-4360-8970-5f1b5cf3fa8d-star.gif"
+                    }
+                ],
+                "Donte DiVincenzo": [
+                    "13.5",
+                    {
+                        "team": "NYK",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Donte_DiVincenzo_9cfad453-b323-43dc-a066-6cd0a21745ad.webp"
+                    }
+                ],
+                "Kelly Oubre Jr.": [
+                    "10.5",
+                    {
+                        "team": "PHI",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Kelly_Oubre_Jr._7dfa0971-96be-4705-9811-f9f54758145f.webp"
+                    }
+                ],
+                "Isaiah Hartenstein": [
+                    "8.5",
+                    {
+                        "team": "NYK",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Isaiah_Hartenstein_38745a56-7472-4844-a2dc-f61d3bcd941f.webp"
+                    }
+                ],
+                "Kyle Lowry": [
+                    "7.5",
+                    {
+                        "team": "PHI",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Kyle_Lowry__8c090758-6baa-468d-82fd-d47e17d5091b.webp"
+                    }
+                ],
+                "Jalen Brunson": [
+                    "31.5",
+                    {
+                        "team": "NYK",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Jalen_Brunson_8d3edba8-9004-4199-9328-cc2208e8b0d3-star.gif"
+                    }
+                ],
+                "Tobias Harris": [
+                    "12.0",
+                    {
+                        "team": "PHI",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Tobias_Harris_82f09975-6a8d-42e4-b42c-a52b9349ed50.webp"
+                    }
+                ],
+                "Josh Hart": [
+                    "14.5",
+                    {
+                        "team": "NYK",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Josh_Hart_d6fbf8f8-bb4a-43f7-95f6-498a5e042138.webp"
+                    }
+                ],
+                "Tyrese Maxey": [
+                    "25.5",
+                    {
+                        "team": "PHI",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Tyrese_Maxey_75fc46eb-71d8-4d1a-984f-3747ccd7a4c9.webp"
+                    }
+                ],
+                "OG Anunoby": [
+                    "12.5",
+                    {
+                        "team": "NYK",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/OG_Anunoby_9474fa0a-70dd-44c4-9751-dac5839ae7f3.webp"
+                    }
+                ],
+                "Miles McBride": [
+                    "8.0",
+                    {
+                        "team": "NYK",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Miles_McBride_355a6113-d842-40be-9e74-90bb0800aabe.webp"
+                    }
+                ],
+                "Bojan Bogdanovic": [
+                    "6.5",
+                    {
+                        "team": "NYK",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Bojan_Bogdanovic_7ff02e19-e829-4e56-9a34-233a71fce76c.webp"
+                    }
+                ],
+                "Luka Doncic": [
+                    "33.5",
+                    {
+                        "team": "DAL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Luka_Doncic_d2ee92e9-3e72-45eb-b156-2dc5adc1e6f7.webp"
+                    }
+                ],
+                "Kawhi Leonard": [
+                    "19.5",
+                    {
+                        "team": "LAC",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Kawhi_Leonard_c12fb587-fc86-471c-8a84-19caf31325ce.webp"
+                    }
+                ],
+                "Kyrie Irving": [
+                    "23.5",
+                    {
+                        "team": "DAL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Kyrie_Irving_dd146010-902b-4ad7-b98c-650d0363a2f0-star.gif"
+                    }
+                ],
+                "Paul George": [
+                    "20.5",
+                    {
+                        "team": "LAC",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Paul_George_db09f372-9a17-4889-add7-bf8a75ab6da6-star.gif"
+                    }
+                ],
+                "P.J. Washington": [
+                    "11.5",
+                    {
+                        "team": "DAL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/PJ_Washington_6d7f4f2f-7ea7-4c56-8082-dfdce67f5487.webp"
+                    }
+                ],
+                "James Harden": [
+                    "18.5",
+                    {
+                        "team": "LAC",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/James_Harden_a52b2c84-9c3d-4d6e-8a3b-10e75d11c2bc.webp"
+                    }
+                ],
+                "Daniel Gafford": [
+                    "8.0",
+                    {
+                        "team": "DAL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Daniel_Gafford_52cd8137-c791-4569-ad70-433e25d34882.webp"
+                    }
+                ],
+                "Ivica Zubac": [
+                    "12.5",
+                    {
+                        "team": "LAC",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Ivica_Zubac_2da18268-82d4-4b40-a296-7ceddd435d0b.webp"
+                    }
+                ],
+                "Pascal Siakam": [
+                    "25.5",
+                    {
+                        "team": "IND",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Pascal_Siakam_3df1db1d-6596-489e-8e26-80f60fd9b1f4.webp"
+                    }
+                ],
+                "Myles Turner": [
+                    "20.5",
+                    {
+                        "team": "IND",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Myles_Turner_323f9ef8-ecdd-41a7-859e-dd3db48ba913.webp"
+                    }
+                ],
+                "Khris Middleton": [
+                    "26.5",
+                    {
+                        "team": "MIL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Khris_Middleton_4c362eee-6474-40ea-b1b4-d8f917f95175.webp"
+                    }
+                ],
+                "Tyrese Haliburton": [
+                    "16.5",
+                    {
+                        "team": "IND",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Tyrese_Haliburton_254e42d7-df01-4c68-9264-bca06c83c2c1-star.gif"
+                    }
+                ],
+                "Andrew Nembhard": [
+                    "11.5",
+                    {
+                        "team": "IND",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Andrew_Nembhard_02acc094-76ab-4b3e-b51d-a351a9bab6b9.webp"
+                    }
+                ],
+                "Bobby Portis": [
+                    "19.5",
+                    {
+                        "team": "MIL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Bobby_Portis_68b7aac9-02fd-4bd8-b10c-6702d2c5eb98.webp"
+                    }
+                ],
+                "Aaron Nesmith": [
+                    "12.5",
+                    {
+                        "team": "IND",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Aaron_Nesmith_90d63a71-e4fe-411c-9773-2e74b5e1cb3b.webp"
+                    }
+                ],
+                "Brook Lopez": [
+                    "14.5",
+                    {
+                        "team": "MIL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Brook_Lopez_c179fb5c-9845-4e37-aef7-6e00d97548eb.webp"
+                    }
+                ],
+                "Patrick Beverley": [
+                    "9.5",
+                    {
+                        "team": "MIL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Patrick_Beverley_912e7aa3-dd03-4a98-9980-0442e108f287.webp"
+                    }
+                ],
+                "Obi Toppin": [
+                    "7.5",
+                    {
+                        "team": "IND",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Obi_Toppin_ed000754-fb2c-4778-be6d-40cfc2400bd7.webp"
+                    }
+                ],
+                "T.J. McConnell": [
+                    "7.5",
+                    {
+                        "team": "IND",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/T.J._McConnell_e3dfa2a2-6272-4f3f-adf0-dd5dadea9481.webp"
+                    }
+                ],
+                "Kevin Durant": [
+                    "25.5",
+                    {
+                        "team": "PHX",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Kevin_Durant__53f2fa48-e61b-49fb-843d-8a3e872257eb.webp"
+                    }
+                ],
+                "Anthony Edwards": [
+                    "26.5",
+                    {
+                        "team": "MIN",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Anthony_Edwards_d0c7135a-1aea-40cb-ba20-df656de71749.webp"
+                    }
+                ],
+                "Devin Booker": [
+                    "24.5",
+                    {
+                        "team": "PHX",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Devin_Booker_31baa84f-c759-4f92-8e1f-a92305ade3d6.webp"
+                    }
+                ],
+                "Karl-Anthony Towns": [
+                    "17.5",
+                    {
+                        "team": "MIN",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Karl-Anthony_Towns_ab532a66-9314-4d57-ade7-bb54a70c65ad.webp"
+                    }
+                ],
+                "Bradley Beal": [
+                    "18.5",
+                    {
+                        "team": "PHX",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Bradley_Beal_ff461754-ad20-4eeb-af02-2b46cc980b24.webp"
+                    }
+                ],
+                "Rudy Gobert": [
+                    "13.5",
+                    {
+                        "team": "MIN",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Rudy_Gobert_37fbc3a5-0d10-4e22-803b-baa2ea0cdb12.webp"
+                    }
+                ],
+                "Jusuf Nurkic": [
+                    "7.5",
+                    {
+                        "team": "PHX",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Jusuf_Nurkic_a8b48aa9-cf98-4a87-8bba-e88eead8cdaa.webp"
+                    }
+                ],
+                "Mike Conley": [
+                    "12.5",
+                    {
+                        "team": "MIN",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Mike_Conley_460b7264-b98f-483e-b841-59a18c2e4d67.webp"
+                    }
+                ],
+                "Jaden McDaniels": [
+                    "9.5",
+                    {
+                        "team": "MIN",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Jaden_McDaniels_aa5536d2-4d75-43fb-8df3-47fbf99d3b7c.webp"
+                    }
+                ]
+            },
+            "Pts+Rebs+Asts": {
+                "Joel Embiid": [
+                    "49.5",
+                    {
+                        "team": "PHI",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Joel_Embiid_bf9ad0fd-0cb8-4360-8970-5f1b5cf3fa8d-star.gif"
+                    }
+                ],
+                "Donte DiVincenzo": [
+                    "21.5",
+                    {
+                        "team": "NYK",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Donte_DiVincenzo_9cfad453-b323-43dc-a066-6cd0a21745ad.webp"
+                    }
+                ],
+                "Kelly Oubre Jr.": [
+                    "17.5",
+                    {
+                        "team": "PHI",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Kelly_Oubre_Jr._7dfa0971-96be-4705-9811-f9f54758145f.webp"
+                    }
+                ],
+                "Isaiah Hartenstein": [
+                    "19.5",
+                    {
+                        "team": "NYK",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Isaiah_Hartenstein_38745a56-7472-4844-a2dc-f61d3bcd941f.webp"
+                    }
+                ],
+                "Jalen Brunson": [
+                    "42.5",
+                    {
+                        "team": "NYK",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Jalen_Brunson_8d3edba8-9004-4199-9328-cc2208e8b0d3-star.gif"
+                    }
+                ],
+                "Tobias Harris": [
+                    "22.5",
+                    {
+                        "team": "PHI",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Tobias_Harris_82f09975-6a8d-42e4-b42c-a52b9349ed50.webp"
+                    }
+                ],
+                "Josh Hart": [
+                    "30.5",
+                    {
+                        "team": "NYK",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Josh_Hart_d6fbf8f8-bb4a-43f7-95f6-498a5e042138.webp"
+                    }
+                ],
+                "Tyrese Maxey": [
+                    "36.5",
+                    {
+                        "team": "PHI",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Tyrese_Maxey_75fc46eb-71d8-4d1a-984f-3747ccd7a4c9.webp"
+                    }
+                ],
+                "OG Anunoby": [
+                    "18.5",
+                    {
+                        "team": "NYK",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/OG_Anunoby_9474fa0a-70dd-44c4-9751-dac5839ae7f3.webp"
+                    }
+                ],
+                "Luka Doncic": [
+                    "53.5",
+                    {
+                        "team": "DAL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Luka_Doncic_d2ee92e9-3e72-45eb-b156-2dc5adc1e6f7.webp"
+                    }
+                ],
+                "Kawhi Leonard": [
+                    "27.5",
+                    {
+                        "team": "LAC",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Kawhi_Leonard_c12fb587-fc86-471c-8a84-19caf31325ce.webp"
+                    }
+                ],
+                "Kyrie Irving": [
+                    "33.5",
+                    {
+                        "team": "DAL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Kyrie_Irving_dd146010-902b-4ad7-b98c-650d0363a2f0-star.gif"
+                    }
+                ],
+                "Paul George": [
+                    "28.5",
+                    {
+                        "team": "LAC",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Paul_George_db09f372-9a17-4889-add7-bf8a75ab6da6-star.gif"
+                    }
+                ],
+                "P.J. Washington": [
+                    "18.5",
+                    {
+                        "team": "DAL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/PJ_Washington_6d7f4f2f-7ea7-4c56-8082-dfdce67f5487.webp"
+                    }
+                ],
+                "James Harden": [
+                    "31.5",
+                    {
+                        "team": "LAC",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/James_Harden_a52b2c84-9c3d-4d6e-8a3b-10e75d11c2bc.webp"
+                    }
+                ],
+                "Pascal Siakam": [
+                    "39.5",
+                    {
+                        "team": "IND",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Pascal_Siakam_3df1db1d-6596-489e-8e26-80f60fd9b1f4.webp"
+                    }
+                ],
+                "Myles Turner": [
+                    "31.5",
+                    {
+                        "team": "IND",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Myles_Turner_323f9ef8-ecdd-41a7-859e-dd3db48ba913.webp"
+                    }
+                ],
+                "Khris Middleton": [
+                    "40.5",
+                    {
+                        "team": "MIL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Khris_Middleton_4c362eee-6474-40ea-b1b4-d8f917f95175.webp"
+                    }
+                ],
+                "Tyrese Haliburton": [
+                    "34.0",
+                    {
+                        "team": "IND",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Tyrese_Haliburton_254e42d7-df01-4c68-9264-bca06c83c2c1-star.gif"
+                    }
+                ],
+                "Andrew Nembhard": [
+                    "18.5",
+                    {
+                        "team": "IND",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Andrew_Nembhard_02acc094-76ab-4b3e-b51d-a351a9bab6b9.webp"
+                    }
+                ],
+                "Bobby Portis": [
+                    "34.5",
+                    {
+                        "team": "MIL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Bobby_Portis_68b7aac9-02fd-4bd8-b10c-6702d2c5eb98.webp"
+                    }
+                ],
+                "Aaron Nesmith": [
+                    "20.5",
+                    {
+                        "team": "IND",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Aaron_Nesmith_90d63a71-e4fe-411c-9773-2e74b5e1cb3b.webp"
+                    }
+                ],
+                "Brook Lopez": [
+                    "22.5",
+                    {
+                        "team": "MIL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Brook_Lopez_c179fb5c-9845-4e37-aef7-6e00d97548eb.webp"
+                    }
+                ],
+                "Patrick Beverley": [
+                    "20.5",
+                    {
+                        "team": "MIL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Patrick_Beverley_912e7aa3-dd03-4a98-9980-0442e108f287.webp"
+                    }
+                ],
+                "Kevin Durant": [
+                    "36.5",
+                    {
+                        "team": "PHX",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Kevin_Durant__53f2fa48-e61b-49fb-843d-8a3e872257eb.webp"
+                    }
+                ],
+                "Anthony Edwards": [
+                    "38.5",
+                    {
+                        "team": "MIN",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Anthony_Edwards_d0c7135a-1aea-40cb-ba20-df656de71749.webp"
+                    }
+                ],
+                "Devin Booker": [
+                    "35.0",
+                    {
+                        "team": "PHX",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Devin_Booker_31baa84f-c759-4f92-8e1f-a92305ade3d6.webp"
+                    }
+                ],
+                "Karl-Anthony Towns": [
+                    "27.5",
+                    {
+                        "team": "MIN",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Karl-Anthony_Towns_ab532a66-9314-4d57-ade7-bb54a70c65ad.webp"
+                    }
+                ],
+                "Bradley Beal": [
+                    "29.5",
+                    {
+                        "team": "PHX",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Bradley_Beal_ff461754-ad20-4eeb-af02-2b46cc980b24.webp"
+                    }
+                ],
+                "Rudy Gobert": [
+                    "29.5",
+                    {
+                        "team": "MIN",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Rudy_Gobert_37fbc3a5-0d10-4e22-803b-baa2ea0cdb12.webp"
+                    }
+                ],
+                "Jusuf Nurkic": [
+                    "20.5",
+                    {
+                        "team": "PHX",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Jusuf_Nurkic_a8b48aa9-cf98-4a87-8bba-e88eead8cdaa.webp"
+                    }
+                ],
+                "Mike Conley": [
+                    "21.5",
+                    {
+                        "team": "MIN",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Mike_Conley_460b7264-b98f-483e-b841-59a18c2e4d67.webp"
+                    }
+                ],
+                "Jaden McDaniels": [
+                    "15.5",
+                    {
+                        "team": "MIN",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Jaden_McDaniels_aa5536d2-4d75-43fb-8df3-47fbf99d3b7c.webp"
+                    }
+                ]
+            },
+            "Rebounds": {
+                "Joel Embiid": [
+                    "10.0",
+                    {
+                        "team": "PHI",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Joel_Embiid_bf9ad0fd-0cb8-4360-8970-5f1b5cf3fa8d-star.gif"
+                    }
+                ],
+                "Donte DiVincenzo": [
+                    "4.0",
+                    {
+                        "team": "NYK",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Donte_DiVincenzo_9cfad453-b323-43dc-a066-6cd0a21745ad.webp"
+                    }
+                ],
+                "Kelly Oubre Jr.": [
+                    "5.0",
+                    {
+                        "team": "PHI",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Kelly_Oubre_Jr._7dfa0971-96be-4705-9811-f9f54758145f.webp"
+                    }
+                ],
+                "Isaiah Hartenstein": [
+                    "7.5",
+                    {
+                        "team": "NYK",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Isaiah_Hartenstein_38745a56-7472-4844-a2dc-f61d3bcd941f.webp"
+                    }
+                ],
+                "Jalen Brunson": [
+                    "4.0",
+                    {
+                        "team": "NYK",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Jalen_Brunson_8d3edba8-9004-4199-9328-cc2208e8b0d3-star.gif"
+                    }
+                ],
+                "Tobias Harris": [
+                    "7.0",
+                    {
+                        "team": "PHI",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Tobias_Harris_82f09975-6a8d-42e4-b42c-a52b9349ed50.webp"
+                    }
+                ],
+                "Josh Hart": [
+                    "11.5",
+                    {
+                        "team": "NYK",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Josh_Hart_d6fbf8f8-bb4a-43f7-95f6-498a5e042138.webp"
+                    }
+                ],
+                "Tyrese Maxey": [
+                    "4.0",
+                    {
+                        "team": "PHI",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Tyrese_Maxey_75fc46eb-71d8-4d1a-984f-3747ccd7a4c9.webp"
+                    }
+                ],
+                "OG Anunoby": [
+                    "4.0",
+                    {
+                        "team": "NYK",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/OG_Anunoby_9474fa0a-70dd-44c4-9751-dac5839ae7f3.webp"
+                    }
+                ],
+                "Luka Doncic": [
+                    "9.5",
+                    {
+                        "team": "DAL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Luka_Doncic_d2ee92e9-3e72-45eb-b156-2dc5adc1e6f7.webp"
+                    }
+                ],
+                "Kawhi Leonard": [
+                    "5.5",
+                    {
+                        "team": "LAC",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Kawhi_Leonard_c12fb587-fc86-471c-8a84-19caf31325ce.webp"
+                    }
+                ],
+                "Kyrie Irving": [
+                    "4.5",
+                    {
+                        "team": "DAL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Kyrie_Irving_dd146010-902b-4ad7-b98c-650d0363a2f0-star.gif"
+                    }
+                ],
+                "Paul George": [
+                    "4.5",
+                    {
+                        "team": "LAC",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Paul_George_db09f372-9a17-4889-add7-bf8a75ab6da6-star.gif"
+                    }
+                ],
+                "P.J. Washington": [
+                    "5.5",
+                    {
+                        "team": "DAL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/PJ_Washington_6d7f4f2f-7ea7-4c56-8082-dfdce67f5487.webp"
+                    }
+                ],
+                "James Harden": [
+                    "4.5",
+                    {
+                        "team": "LAC",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/James_Harden_a52b2c84-9c3d-4d6e-8a3b-10e75d11c2bc.webp"
+                    }
+                ],
+                "Daniel Gafford": [
+                    "5.0",
+                    {
+                        "team": "DAL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Daniel_Gafford_52cd8137-c791-4569-ad70-433e25d34882.webp"
+                    }
+                ],
+                "Ivica Zubac": [
+                    "9.5",
+                    {
+                        "team": "LAC",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Ivica_Zubac_2da18268-82d4-4b40-a296-7ceddd435d0b.webp"
+                    }
+                ],
+                "Terance Mann": [
+                    "2.5",
+                    {
+                        "team": "LAC",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Terance_Mann_a6cc820a-8dce-40aa-840c-f0c94cfa9e46.webp"
+                    }
+                ],
+                "Myles Turner": [
+                    "8.5",
+                    {
+                        "team": "IND",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Myles_Turner_323f9ef8-ecdd-41a7-859e-dd3db48ba913.webp"
+                    }
+                ],
+                "Khris Middleton": [
+                    "7.0",
+                    {
+                        "team": "MIL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Khris_Middleton_4c362eee-6474-40ea-b1b4-d8f917f95175.webp"
+                    }
+                ],
+                "Tyrese Haliburton": [
+                    "5.0",
+                    {
+                        "team": "IND",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Tyrese_Haliburton_254e42d7-df01-4c68-9264-bca06c83c2c1-star.gif"
+                    }
+                ],
+                "Bobby Portis": [
+                    "12.5",
+                    {
+                        "team": "MIL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Bobby_Portis_68b7aac9-02fd-4bd8-b10c-6702d2c5eb98.webp"
+                    }
+                ],
+                "Aaron Nesmith": [
+                    "5.0",
+                    {
+                        "team": "IND",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Aaron_Nesmith_90d63a71-e4fe-411c-9773-2e74b5e1cb3b.webp"
+                    }
+                ],
+                "Brook Lopez": [
+                    "5.0",
+                    {
+                        "team": "MIL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Brook_Lopez_c179fb5c-9845-4e37-aef7-6e00d97548eb.webp"
+                    }
+                ],
+                "Patrick Beverley": [
+                    "5.0",
+                    {
+                        "team": "MIL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Patrick_Beverley_912e7aa3-dd03-4a98-9980-0442e108f287.webp"
+                    }
+                ],
+                "Obi Toppin": [
+                    "4.5",
+                    {
+                        "team": "IND",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Obi_Toppin_ed000754-fb2c-4778-be6d-40cfc2400bd7.webp"
+                    }
+                ],
+                "Kevin Durant": [
+                    "6.5",
+                    {
+                        "team": "PHX",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Kevin_Durant__53f2fa48-e61b-49fb-843d-8a3e872257eb.webp"
+                    }
+                ],
+                "Anthony Edwards": [
+                    "6.0",
+                    {
+                        "team": "MIN",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Anthony_Edwards_d0c7135a-1aea-40cb-ba20-df656de71749.webp"
+                    }
+                ],
+                "Karl-Anthony Towns": [
+                    "7.5",
+                    {
+                        "team": "MIN",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Karl-Anthony_Towns_ab532a66-9314-4d57-ade7-bb54a70c65ad.webp"
+                    }
+                ],
+                "Bradley Beal": [
+                    "4.5",
+                    {
+                        "team": "PHX",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Bradley_Beal_ff461754-ad20-4eeb-af02-2b46cc980b24.webp"
+                    }
+                ],
+                "Rudy Gobert": [
+                    "13.5",
+                    {
+                        "team": "MIN",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Rudy_Gobert_37fbc3a5-0d10-4e22-803b-baa2ea0cdb12.webp"
+                    }
+                ],
+                "Jusuf Nurkic": [
+                    "9.5",
+                    {
+                        "team": "PHX",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Jusuf_Nurkic_a8b48aa9-cf98-4a87-8bba-e88eead8cdaa.webp"
+                    }
+                ]
+            },
+            "3-PT Made": {
+                "Kyle Lowry": [
+                    "1.5",
+                    {
+                        "team": "PHI",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Kyle_Lowry__8c090758-6baa-468d-82fd-d47e17d5091b.webp"
+                    }
+                ],
+                "Jalen Brunson": [
+                    "2.5",
+                    {
+                        "team": "NYK",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Jalen_Brunson_8d3edba8-9004-4199-9328-cc2208e8b0d3-star.gif"
+                    }
+                ],
+                "OG Anunoby": [
+                    "1.5",
+                    {
+                        "team": "NYK",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/OG_Anunoby_9474fa0a-70dd-44c4-9751-dac5839ae7f3.webp"
+                    }
+                ],
+                "Miles McBride": [
+                    "1.5",
+                    {
+                        "team": "NYK",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Miles_McBride_355a6113-d842-40be-9e74-90bb0800aabe.webp"
+                    }
+                ],
+                "Luka Doncic": [
+                    "4.5",
+                    {
+                        "team": "DAL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Luka_Doncic_d2ee92e9-3e72-45eb-b156-2dc5adc1e6f7.webp"
+                    }
+                ],
+                "Kawhi Leonard": [
+                    "1.5",
+                    {
+                        "team": "LAC",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Kawhi_Leonard_c12fb587-fc86-471c-8a84-19caf31325ce.webp"
+                    }
+                ],
+                "Paul George": [
+                    "2.5",
+                    {
+                        "team": "LAC",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Paul_George_db09f372-9a17-4889-add7-bf8a75ab6da6-star.gif"
+                    }
+                ],
+                "P.J. Washington": [
+                    "1.5",
+                    {
+                        "team": "DAL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/PJ_Washington_6d7f4f2f-7ea7-4c56-8082-dfdce67f5487.webp"
+                    }
+                ],
+                "Terance Mann": [
+                    "0.5",
+                    {
+                        "team": "LAC",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Terance_Mann_a6cc820a-8dce-40aa-840c-f0c94cfa9e46.webp"
+                    }
+                ],
+                "Tyrese Haliburton": [
+                    "2.5",
+                    {
+                        "team": "IND",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Tyrese_Haliburton_254e42d7-df01-4c68-9264-bca06c83c2c1-star.gif"
+                    }
+                ],
+                "Anthony Edwards": [
+                    "2.5",
+                    {
+                        "team": "MIN",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Anthony_Edwards_d0c7135a-1aea-40cb-ba20-df656de71749.webp"
+                    }
+                ]
+            },
+            "Assists": {
+                "Joel Embiid": [
+                    "5.0",
+                    {
+                        "team": "PHI",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Joel_Embiid_bf9ad0fd-0cb8-4360-8970-5f1b5cf3fa8d-star.gif"
+                    }
+                ],
+                "Jalen Brunson": [
+                    "7.0",
+                    {
+                        "team": "NYK",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Jalen_Brunson_8d3edba8-9004-4199-9328-cc2208e8b0d3-star.gif"
+                    }
+                ],
+                "Tobias Harris": [
+                    "2.5",
+                    {
+                        "team": "PHI",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Tobias_Harris_82f09975-6a8d-42e4-b42c-a52b9349ed50.webp"
+                    }
+                ],
+                "Josh Hart": [
+                    "4.5",
+                    {
+                        "team": "NYK",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Josh_Hart_d6fbf8f8-bb4a-43f7-95f6-498a5e042138.webp"
+                    }
+                ],
+                "Tyrese Maxey": [
+                    "6.5",
+                    {
+                        "team": "PHI",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Tyrese_Maxey_75fc46eb-71d8-4d1a-984f-3747ccd7a4c9.webp"
+                    }
+                ],
+                "Luka Doncic": [
+                    "9.5",
+                    {
+                        "team": "DAL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Luka_Doncic_d2ee92e9-3e72-45eb-b156-2dc5adc1e6f7.webp"
+                    }
+                ],
+                "Kawhi Leonard": [
+                    "2.5",
+                    {
+                        "team": "LAC",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Kawhi_Leonard_c12fb587-fc86-471c-8a84-19caf31325ce.webp"
+                    }
+                ],
+                "Kyrie Irving": [
+                    "4.5",
+                    {
+                        "team": "DAL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Kyrie_Irving_dd146010-902b-4ad7-b98c-650d0363a2f0-star.gif"
+                    }
+                ],
+                "Paul George": [
+                    "3.5",
+                    {
+                        "team": "LAC",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Paul_George_db09f372-9a17-4889-add7-bf8a75ab6da6-star.gif"
+                    }
+                ],
+                "James Harden": [
+                    "7.5",
+                    {
+                        "team": "LAC",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/James_Harden_a52b2c84-9c3d-4d6e-8a3b-10e75d11c2bc.webp"
+                    }
+                ],
+                "Khris Middleton": [
+                    "6.0",
+                    {
+                        "team": "MIL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Khris_Middleton_4c362eee-6474-40ea-b1b4-d8f917f95175.webp"
+                    }
+                ],
+                "Tyrese Haliburton": [
+                    "11.5",
+                    {
+                        "team": "IND",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Tyrese_Haliburton_254e42d7-df01-4c68-9264-bca06c83c2c1-star.gif"
+                    }
+                ],
+                "Patrick Beverley": [
+                    "5.0",
+                    {
+                        "team": "MIL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Patrick_Beverley_912e7aa3-dd03-4a98-9980-0442e108f287.webp"
+                    }
+                ],
+                "Anthony Edwards": [
+                    "5.0",
+                    {
+                        "team": "MIN",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Anthony_Edwards_d0c7135a-1aea-40cb-ba20-df656de71749.webp"
+                    }
+                ],
+                "Devin Booker": [
+                    "6.5",
+                    {
+                        "team": "PHX",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Devin_Booker_31baa84f-c759-4f92-8e1f-a92305ade3d6.webp"
+                    }
+                ],
+                "Bradley Beal": [
+                    "5.5",
+                    {
+                        "team": "PHX",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Bradley_Beal_ff461754-ad20-4eeb-af02-2b46cc980b24.webp"
+                    }
+                ],
+                "Mike Conley": [
+                    "6.0",
+                    {
+                        "team": "MIN",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Mike_Conley_460b7264-b98f-483e-b841-59a18c2e4d67.webp"
+                    }
+                ]
+            },
+            "Pts+Rebs": {
+                "Joel Embiid": [
+                    "44.5",
+                    {
+                        "team": "PHI",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Joel_Embiid_bf9ad0fd-0cb8-4360-8970-5f1b5cf3fa8d-star.gif"
+                    }
+                ],
+                "Donte DiVincenzo": [
+                    "18.5",
+                    {
+                        "team": "NYK",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Donte_DiVincenzo_9cfad453-b323-43dc-a066-6cd0a21745ad.webp"
+                    }
+                ],
+                "Kelly Oubre Jr.": [
+                    "15.5",
+                    {
+                        "team": "PHI",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Kelly_Oubre_Jr._7dfa0971-96be-4705-9811-f9f54758145f.webp"
+                    }
+                ],
+                "Isaiah Hartenstein": [
+                    "16.5",
+                    {
+                        "team": "NYK",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Isaiah_Hartenstein_38745a56-7472-4844-a2dc-f61d3bcd941f.webp"
+                    }
+                ],
+                "Kyle Lowry": [
+                    "11.5",
+                    {
+                        "team": "PHI",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Kyle_Lowry__8c090758-6baa-468d-82fd-d47e17d5091b.webp"
+                    }
+                ],
+                "Jalen Brunson": [
+                    "35.5",
+                    {
+                        "team": "NYK",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Jalen_Brunson_8d3edba8-9004-4199-9328-cc2208e8b0d3-star.gif"
+                    }
+                ],
+                "Tobias Harris": [
+                    "19.5",
+                    {
+                        "team": "PHI",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Tobias_Harris_82f09975-6a8d-42e4-b42c-a52b9349ed50.webp"
+                    }
+                ],
+                "Josh Hart": [
+                    "26.5",
+                    {
+                        "team": "NYK",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Josh_Hart_d6fbf8f8-bb4a-43f7-95f6-498a5e042138.webp"
+                    }
+                ],
+                "Tyrese Maxey": [
+                    "29.5",
+                    {
+                        "team": "PHI",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Tyrese_Maxey_75fc46eb-71d8-4d1a-984f-3747ccd7a4c9.webp"
+                    }
+                ],
+                "OG Anunoby": [
+                    "16.5",
+                    {
+                        "team": "NYK",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/OG_Anunoby_9474fa0a-70dd-44c4-9751-dac5839ae7f3.webp"
+                    }
+                ],
+                "Miles McBride": [
+                    "10.5",
+                    {
+                        "team": "NYK",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Miles_McBride_355a6113-d842-40be-9e74-90bb0800aabe.webp"
+                    }
+                ],
+                "Luka Doncic": [
+                    "43.5",
+                    {
+                        "team": "DAL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Luka_Doncic_d2ee92e9-3e72-45eb-b156-2dc5adc1e6f7.webp"
+                    }
+                ],
+                "Kawhi Leonard": [
+                    "25.5",
+                    {
+                        "team": "LAC",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Kawhi_Leonard_c12fb587-fc86-471c-8a84-19caf31325ce.webp"
+                    }
+                ],
+                "Kyrie Irving": [
+                    "28.5",
+                    {
+                        "team": "DAL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Kyrie_Irving_dd146010-902b-4ad7-b98c-650d0363a2f0-star.gif"
+                    }
+                ],
+                "Paul George": [
+                    "24.5",
+                    {
+                        "team": "LAC",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Paul_George_db09f372-9a17-4889-add7-bf8a75ab6da6-star.gif"
+                    }
+                ],
+                "P.J. Washington": [
+                    "17.5",
+                    {
+                        "team": "DAL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/PJ_Washington_6d7f4f2f-7ea7-4c56-8082-dfdce67f5487.webp"
+                    }
+                ],
+                "James Harden": [
+                    "23.5",
+                    {
+                        "team": "LAC",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/James_Harden_a52b2c84-9c3d-4d6e-8a3b-10e75d11c2bc.webp"
+                    }
+                ],
+                "Daniel Gafford": [
+                    "13.5",
+                    {
+                        "team": "DAL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Daniel_Gafford_52cd8137-c791-4569-ad70-433e25d34882.webp"
+                    }
+                ],
+                "Ivica Zubac": [
+                    "22.5",
+                    {
+                        "team": "LAC",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Ivica_Zubac_2da18268-82d4-4b40-a296-7ceddd435d0b.webp"
+                    }
+                ],
+                "Pascal Siakam": [
+                    "35.5",
+                    {
+                        "team": "IND",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Pascal_Siakam_3df1db1d-6596-489e-8e26-80f60fd9b1f4.webp"
+                    }
+                ],
+                "Myles Turner": [
+                    "29.5",
+                    {
+                        "team": "IND",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Myles_Turner_323f9ef8-ecdd-41a7-859e-dd3db48ba913.webp"
+                    }
+                ],
+                "Khris Middleton": [
+                    "33.5",
+                    {
+                        "team": "MIL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Khris_Middleton_4c362eee-6474-40ea-b1b4-d8f917f95175.webp"
+                    }
+                ],
+                "Tyrese Haliburton": [
+                    "22.5",
+                    {
+                        "team": "IND",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Tyrese_Haliburton_254e42d7-df01-4c68-9264-bca06c83c2c1-star.gif"
+                    }
+                ],
+                "Andrew Nembhard": [
+                    "15.5",
+                    {
+                        "team": "IND",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Andrew_Nembhard_02acc094-76ab-4b3e-b51d-a351a9bab6b9.webp"
+                    }
+                ],
+                "Bobby Portis": [
+                    "32.5",
+                    {
+                        "team": "MIL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Bobby_Portis_68b7aac9-02fd-4bd8-b10c-6702d2c5eb98.webp"
+                    }
+                ],
+                "Aaron Nesmith": [
+                    "17.5",
+                    {
+                        "team": "IND",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Aaron_Nesmith_90d63a71-e4fe-411c-9773-2e74b5e1cb3b.webp"
+                    }
+                ],
+                "Brook Lopez": [
+                    "20.5",
+                    {
+                        "team": "MIL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Brook_Lopez_c179fb5c-9845-4e37-aef7-6e00d97548eb.webp"
+                    }
+                ],
+                "Patrick Beverley": [
+                    "14.5",
+                    {
+                        "team": "MIL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Patrick_Beverley_912e7aa3-dd03-4a98-9980-0442e108f287.webp"
+                    }
+                ],
+                "Obi Toppin": [
+                    "12.5",
+                    {
+                        "team": "IND",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Obi_Toppin_ed000754-fb2c-4778-be6d-40cfc2400bd7.webp"
+                    }
+                ],
+                "Kevin Durant": [
+                    "32.5",
+                    {
+                        "team": "PHX",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Kevin_Durant__53f2fa48-e61b-49fb-843d-8a3e872257eb.webp"
+                    }
+                ],
+                "Anthony Edwards": [
+                    "32.5",
+                    {
+                        "team": "MIN",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Anthony_Edwards_d0c7135a-1aea-40cb-ba20-df656de71749.webp"
+                    }
+                ],
+                "Devin Booker": [
+                    "28.5",
+                    {
+                        "team": "PHX",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Devin_Booker_31baa84f-c759-4f92-8e1f-a92305ade3d6.webp"
+                    }
+                ],
+                "Karl-Anthony Towns": [
+                    "25.5",
+                    {
+                        "team": "MIN",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Karl-Anthony_Towns_ab532a66-9314-4d57-ade7-bb54a70c65ad.webp"
+                    }
+                ],
+                "Bradley Beal": [
+                    "23.5",
+                    {
+                        "team": "PHX",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Bradley_Beal_ff461754-ad20-4eeb-af02-2b46cc980b24.webp"
+                    }
+                ],
+                "Rudy Gobert": [
+                    "27.5",
+                    {
+                        "team": "MIN",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Rudy_Gobert_37fbc3a5-0d10-4e22-803b-baa2ea0cdb12.webp"
+                    }
+                ],
+                "Jusuf Nurkic": [
+                    "17.5",
+                    {
+                        "team": "PHX",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Jusuf_Nurkic_a8b48aa9-cf98-4a87-8bba-e88eead8cdaa.webp"
+                    }
+                ],
+                "Mike Conley": [
+                    "15.5",
+                    {
+                        "team": "MIN",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Mike_Conley_460b7264-b98f-483e-b841-59a18c2e4d67.webp"
+                    }
+                ],
+                "Jaden McDaniels": [
+                    "14.5",
+                    {
+                        "team": "MIN",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Jaden_McDaniels_aa5536d2-4d75-43fb-8df3-47fbf99d3b7c.webp"
+                    }
+                ]
+            },
+            "Pts+Asts": {
+                "Joel Embiid": [
+                    "39.5",
+                    {
+                        "team": "PHI",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Joel_Embiid_bf9ad0fd-0cb8-4360-8970-5f1b5cf3fa8d-star.gif"
+                    }
+                ],
+                "Donte DiVincenzo": [
+                    "16.5",
+                    {
+                        "team": "NYK",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Donte_DiVincenzo_9cfad453-b323-43dc-a066-6cd0a21745ad.webp"
+                    }
+                ],
+                "Kelly Oubre Jr.": [
+                    "12.5",
+                    {
+                        "team": "PHI",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Kelly_Oubre_Jr._7dfa0971-96be-4705-9811-f9f54758145f.webp"
+                    }
+                ],
+                "Isaiah Hartenstein": [
+                    "11.5",
+                    {
+                        "team": "NYK",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Isaiah_Hartenstein_38745a56-7472-4844-a2dc-f61d3bcd941f.webp"
+                    }
+                ],
+                "Kyle Lowry": [
+                    "10.5",
+                    {
+                        "team": "PHI",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Kyle_Lowry__8c090758-6baa-468d-82fd-d47e17d5091b.webp"
+                    }
+                ],
+                "Jalen Brunson": [
+                    "38.5",
+                    {
+                        "team": "NYK",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Jalen_Brunson_8d3edba8-9004-4199-9328-cc2208e8b0d3-star.gif"
+                    }
+                ],
+                "Tobias Harris": [
+                    "14.5",
+                    {
+                        "team": "PHI",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Tobias_Harris_82f09975-6a8d-42e4-b42c-a52b9349ed50.webp"
+                    }
+                ],
+                "Josh Hart": [
+                    "18.5",
+                    {
+                        "team": "NYK",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Josh_Hart_d6fbf8f8-bb4a-43f7-95f6-498a5e042138.webp"
+                    }
+                ],
+                "Tyrese Maxey": [
+                    "31.5",
+                    {
+                        "team": "PHI",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Tyrese_Maxey_75fc46eb-71d8-4d1a-984f-3747ccd7a4c9.webp"
+                    }
+                ],
+                "OG Anunoby": [
+                    "13.5",
+                    {
+                        "team": "NYK",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/OG_Anunoby_9474fa0a-70dd-44c4-9751-dac5839ae7f3.webp"
+                    }
+                ],
+                "Miles McBride": [
+                    "10.5",
+                    {
+                        "team": "NYK",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Miles_McBride_355a6113-d842-40be-9e74-90bb0800aabe.webp"
+                    }
+                ],
+                "Luka Doncic": [
+                    "43.5",
+                    {
+                        "team": "DAL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Luka_Doncic_d2ee92e9-3e72-45eb-b156-2dc5adc1e6f7.webp"
+                    }
+                ],
+                "Kawhi Leonard": [
+                    "22.5",
+                    {
+                        "team": "LAC",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Kawhi_Leonard_c12fb587-fc86-471c-8a84-19caf31325ce.webp"
+                    }
+                ],
+                "Kyrie Irving": [
+                    "28.5",
+                    {
+                        "team": "DAL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Kyrie_Irving_dd146010-902b-4ad7-b98c-650d0363a2f0-star.gif"
+                    }
+                ],
+                "Paul George": [
+                    "23.5",
+                    {
+                        "team": "LAC",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Paul_George_db09f372-9a17-4889-add7-bf8a75ab6da6-star.gif"
+                    }
+                ],
+                "P.J. Washington": [
+                    "12.5",
+                    {
+                        "team": "DAL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/PJ_Washington_6d7f4f2f-7ea7-4c56-8082-dfdce67f5487.webp"
+                    }
+                ],
+                "James Harden": [
+                    "25.5",
+                    {
+                        "team": "LAC",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/James_Harden_a52b2c84-9c3d-4d6e-8a3b-10e75d11c2bc.webp"
+                    }
+                ],
+                "Ivica Zubac": [
+                    "13.5",
+                    {
+                        "team": "LAC",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Ivica_Zubac_2da18268-82d4-4b40-a296-7ceddd435d0b.webp"
+                    }
+                ],
+                "Pascal Siakam": [
+                    "29.5",
+                    {
+                        "team": "IND",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Pascal_Siakam_3df1db1d-6596-489e-8e26-80f60fd9b1f4.webp"
+                    }
+                ],
+                "Myles Turner": [
+                    "22.5",
+                    {
+                        "team": "IND",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Myles_Turner_323f9ef8-ecdd-41a7-859e-dd3db48ba913.webp"
+                    }
+                ],
+                "Khris Middleton": [
+                    "32.5",
+                    {
+                        "team": "MIL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Khris_Middleton_4c362eee-6474-40ea-b1b4-d8f917f95175.webp"
+                    }
+                ],
+                "Tyrese Haliburton": [
+                    "28.5",
+                    {
+                        "team": "IND",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Tyrese_Haliburton_254e42d7-df01-4c68-9264-bca06c83c2c1-star.gif"
+                    }
+                ],
+                "Andrew Nembhard": [
+                    "15.5",
+                    {
+                        "team": "IND",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Andrew_Nembhard_02acc094-76ab-4b3e-b51d-a351a9bab6b9.webp"
+                    }
+                ],
+                "Bobby Portis": [
+                    "22.5",
+                    {
+                        "team": "MIL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Bobby_Portis_68b7aac9-02fd-4bd8-b10c-6702d2c5eb98.webp"
+                    }
+                ],
+                "Aaron Nesmith": [
+                    "15.5",
+                    {
+                        "team": "IND",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Aaron_Nesmith_90d63a71-e4fe-411c-9773-2e74b5e1cb3b.webp"
+                    }
+                ],
+                "Brook Lopez": [
+                    "17.5",
+                    {
+                        "team": "MIL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Brook_Lopez_c179fb5c-9845-4e37-aef7-6e00d97548eb.webp"
+                    }
+                ],
+                "Patrick Beverley": [
+                    "14.5",
+                    {
+                        "team": "MIL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Patrick_Beverley_912e7aa3-dd03-4a98-9980-0442e108f287.webp"
+                    }
+                ],
+                "T.J. McConnell": [
+                    "10.5",
+                    {
+                        "team": "IND",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/T.J._McConnell_e3dfa2a2-6272-4f3f-adf0-dd5dadea9481.webp"
+                    }
+                ],
+                "Kevin Durant": [
+                    "29.5",
+                    {
+                        "team": "PHX",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Kevin_Durant__53f2fa48-e61b-49fb-843d-8a3e872257eb.webp"
+                    }
+                ],
+                "Anthony Edwards": [
+                    "32.5",
+                    {
+                        "team": "MIN",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Anthony_Edwards_d0c7135a-1aea-40cb-ba20-df656de71749.webp"
+                    }
+                ],
+                "Devin Booker": [
+                    "31.5",
+                    {
+                        "team": "PHX",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Devin_Booker_31baa84f-c759-4f92-8e1f-a92305ade3d6.webp"
+                    }
+                ],
+                "Karl-Anthony Towns": [
+                    "20.5",
+                    {
+                        "team": "MIN",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Karl-Anthony_Towns_ab532a66-9314-4d57-ade7-bb54a70c65ad.webp"
+                    }
+                ],
+                "Bradley Beal": [
+                    "23.5",
+                    {
+                        "team": "PHX",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Bradley_Beal_ff461754-ad20-4eeb-af02-2b46cc980b24.webp"
+                    }
+                ],
+                "Rudy Gobert": [
+                    "15.5",
+                    {
+                        "team": "MIN",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Rudy_Gobert_37fbc3a5-0d10-4e22-803b-baa2ea0cdb12.webp"
+                    }
+                ],
+                "Mike Conley": [
+                    "19.0",
+                    {
+                        "team": "MIN",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Mike_Conley_460b7264-b98f-483e-b841-59a18c2e4d67.webp"
+                    }
+                ],
+                "Jaden McDaniels": [
+                    "11.5",
+                    {
+                        "team": "MIN",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Jaden_McDaniels_aa5536d2-4d75-43fb-8df3-47fbf99d3b7c.webp"
+                    }
+                ]
+            },
+            "Blocked Shots": {
+                "Nicolas Batum": [
+                    "0.5",
+                    {
+                        "team": "PHI",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Nicolas_Batum_a89ac040-715d-4057-8fc0-9d71ad06fa0a.webp"
+                    }
+                ],
+                "Kawhi Leonard": [
+                    "0.5",
+                    {
+                        "team": "LAC",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Kawhi_Leonard_c12fb587-fc86-471c-8a84-19caf31325ce.webp"
+                    }
+                ],
+                "James Harden": [
+                    "0.5",
+                    {
+                        "team": "LAC",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/James_Harden_a52b2c84-9c3d-4d6e-8a3b-10e75d11c2bc.webp"
+                    }
+                ],
+                "Pascal Siakam": [
+                    "0.5",
+                    {
+                        "team": "IND",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Pascal_Siakam_3df1db1d-6596-489e-8e26-80f60fd9b1f4.webp"
+                    }
+                ],
+                "Bobby Portis": [
+                    "0.5",
+                    {
+                        "team": "MIL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Bobby_Portis_68b7aac9-02fd-4bd8-b10c-6702d2c5eb98.webp"
+                    }
+                ],
+                "Kevin Durant": [
+                    "0.5",
+                    {
+                        "team": "PHX",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Kevin_Durant__53f2fa48-e61b-49fb-843d-8a3e872257eb.webp"
+                    }
+                ],
+                "Bradley Beal": [
+                    "0.5",
+                    {
+                        "team": "PHX",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Bradley_Beal_ff461754-ad20-4eeb-af02-2b46cc980b24.webp"
+                    }
+                ]
+            },
+            "Steals": {
+                "Donte DiVincenzo": [
+                    "1.5",
+                    {
+                        "team": "NYK",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Donte_DiVincenzo_9cfad453-b323-43dc-a066-6cd0a21745ad.webp"
+                    }
+                ],
+                "Kelly Oubre Jr.": [
+                    "1.5",
+                    {
+                        "team": "PHI",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Kelly_Oubre_Jr._7dfa0971-96be-4705-9811-f9f54758145f.webp"
+                    }
+                ],
+                "Nicolas Batum": [
+                    "0.5",
+                    {
+                        "team": "PHI",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Nicolas_Batum_a89ac040-715d-4057-8fc0-9d71ad06fa0a.webp"
+                    }
+                ],
+                "Luka Doncic": [
+                    "1.5",
+                    {
+                        "team": "DAL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Luka_Doncic_d2ee92e9-3e72-45eb-b156-2dc5adc1e6f7.webp"
+                    }
+                ],
+                "Daniel Gafford": [
+                    "0.5",
+                    {
+                        "team": "DAL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Daniel_Gafford_52cd8137-c791-4569-ad70-433e25d34882.webp"
+                    }
+                ],
+                "Obi Toppin": [
+                    "0.5",
+                    {
+                        "team": "IND",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Obi_Toppin_ed000754-fb2c-4778-be6d-40cfc2400bd7.webp"
+                    }
+                ],
+                "T.J. McConnell": [
+                    "0.5",
+                    {
+                        "team": "IND",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/T.J._McConnell_e3dfa2a2-6272-4f3f-adf0-dd5dadea9481.webp"
+                    }
+                ],
+                "Anthony Edwards": [
+                    "1.5",
+                    {
+                        "team": "MIN",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Anthony_Edwards_d0c7135a-1aea-40cb-ba20-df656de71749.webp"
+                    }
+                ]
+            },
+            "Rebs+Asts": {
+                "Joel Embiid": [
+                    "15.5",
+                    {
+                        "team": "PHI",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Joel_Embiid_bf9ad0fd-0cb8-4360-8970-5f1b5cf3fa8d-star.gif"
+                    }
+                ],
+                "Isaiah Hartenstein": [
+                    "10.5",
+                    {
+                        "team": "NYK",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Isaiah_Hartenstein_38745a56-7472-4844-a2dc-f61d3bcd941f.webp"
+                    }
+                ],
+                "Jalen Brunson": [
+                    "11.5",
+                    {
+                        "team": "NYK",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Jalen_Brunson_8d3edba8-9004-4199-9328-cc2208e8b0d3-star.gif"
+                    }
+                ],
+                "Tobias Harris": [
+                    "9.5",
+                    {
+                        "team": "PHI",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Tobias_Harris_82f09975-6a8d-42e4-b42c-a52b9349ed50.webp"
+                    }
+                ],
+                "Josh Hart": [
+                    "16.0",
+                    {
+                        "team": "NYK",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Josh_Hart_d6fbf8f8-bb4a-43f7-95f6-498a5e042138.webp"
+                    }
+                ],
+                "Tyrese Maxey": [
+                    "10.5",
+                    {
+                        "team": "PHI",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Tyrese_Maxey_75fc46eb-71d8-4d1a-984f-3747ccd7a4c9.webp"
+                    }
+                ],
+                "Luka Doncic": [
+                    "19.5",
+                    {
+                        "team": "DAL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Luka_Doncic_d2ee92e9-3e72-45eb-b156-2dc5adc1e6f7.webp"
+                    }
+                ],
+                "Kawhi Leonard": [
+                    "8.0",
+                    {
+                        "team": "LAC",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Kawhi_Leonard_c12fb587-fc86-471c-8a84-19caf31325ce.webp"
+                    }
+                ],
+                "Kyrie Irving": [
+                    "9.5",
+                    {
+                        "team": "DAL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Kyrie_Irving_dd146010-902b-4ad7-b98c-650d0363a2f0-star.gif"
+                    }
+                ],
+                "Paul George": [
+                    "8.0",
+                    {
+                        "team": "LAC",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Paul_George_db09f372-9a17-4889-add7-bf8a75ab6da6-star.gif"
+                    }
+                ],
+                "James Harden": [
+                    "12.5",
+                    {
+                        "team": "LAC",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/James_Harden_a52b2c84-9c3d-4d6e-8a3b-10e75d11c2bc.webp"
+                    }
+                ],
+                "Ivica Zubac": [
+                    "10.5",
+                    {
+                        "team": "LAC",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Ivica_Zubac_2da18268-82d4-4b40-a296-7ceddd435d0b.webp"
+                    }
+                ],
+                "Pascal Siakam": [
+                    "13.5",
+                    {
+                        "team": "IND",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Pascal_Siakam_3df1db1d-6596-489e-8e26-80f60fd9b1f4.webp"
+                    }
+                ],
+                "Myles Turner": [
+                    "10.5",
+                    {
+                        "team": "IND",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Myles_Turner_323f9ef8-ecdd-41a7-859e-dd3db48ba913.webp"
+                    }
+                ],
+                "Khris Middleton": [
+                    "13.5",
+                    {
+                        "team": "MIL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Khris_Middleton_4c362eee-6474-40ea-b1b4-d8f917f95175.webp"
+                    }
+                ],
+                "Tyrese Haliburton": [
+                    "16.5",
+                    {
+                        "team": "IND",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Tyrese_Haliburton_254e42d7-df01-4c68-9264-bca06c83c2c1-star.gif"
+                    }
+                ],
+                "Bobby Portis": [
+                    "14.5",
+                    {
+                        "team": "MIL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Bobby_Portis_68b7aac9-02fd-4bd8-b10c-6702d2c5eb98.webp"
+                    }
+                ],
+                "Aaron Nesmith": [
+                    "8.0",
+                    {
+                        "team": "IND",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Aaron_Nesmith_90d63a71-e4fe-411c-9773-2e74b5e1cb3b.webp"
+                    }
+                ],
+                "Patrick Beverley": [
+                    "10.5",
+                    {
+                        "team": "MIL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Patrick_Beverley_912e7aa3-dd03-4a98-9980-0442e108f287.webp"
+                    }
+                ],
+                "Kevin Durant": [
+                    "10.0",
+                    {
+                        "team": "PHX",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Kevin_Durant__53f2fa48-e61b-49fb-843d-8a3e872257eb.webp"
+                    }
+                ],
+                "Anthony Edwards": [
+                    "11.5",
+                    {
+                        "team": "MIN",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Anthony_Edwards_d0c7135a-1aea-40cb-ba20-df656de71749.webp"
+                    }
+                ],
+                "Devin Booker": [
+                    "10.0",
+                    {
+                        "team": "PHX",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Devin_Booker_31baa84f-c759-4f92-8e1f-a92305ade3d6.webp"
+                    }
+                ],
+                "Karl-Anthony Towns": [
+                    "10.0",
+                    {
+                        "team": "MIN",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Karl-Anthony_Towns_ab532a66-9314-4d57-ade7-bb54a70c65ad.webp"
+                    }
+                ],
+                "Bradley Beal": [
+                    "10.0",
+                    {
+                        "team": "PHX",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Bradley_Beal_ff461754-ad20-4eeb-af02-2b46cc980b24.webp"
+                    }
+                ],
+                "Rudy Gobert": [
+                    "15.5",
+                    {
+                        "team": "MIN",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Rudy_Gobert_37fbc3a5-0d10-4e22-803b-baa2ea0cdb12.webp"
+                    }
+                ],
+                "Jusuf Nurkic": [
+                    "12.5",
+                    {
+                        "team": "PHX",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Jusuf_Nurkic_a8b48aa9-cf98-4a87-8bba-e88eead8cdaa.webp"
+                    }
+                ],
+                "Mike Conley": [
+                    "9.5",
+                    {
+                        "team": "MIN",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Mike_Conley_460b7264-b98f-483e-b841-59a18c2e4d67.webp"
+                    }
+                ]
+            },
+            "Blks+Stls": {
+                "Kelly Oubre Jr.": [
+                    "2.5",
+                    {
+                        "team": "PHI",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Kelly_Oubre_Jr._7dfa0971-96be-4705-9811-f9f54758145f.webp"
+                    }
+                ],
+                "Kyle Lowry": [
+                    "1.5",
+                    {
+                        "team": "PHI",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Kyle_Lowry__8c090758-6baa-468d-82fd-d47e17d5091b.webp"
+                    }
+                ],
+                "Tobias Harris": [
+                    "1.5",
+                    {
+                        "team": "PHI",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Tobias_Harris_82f09975-6a8d-42e4-b42c-a52b9349ed50.webp"
+                    }
+                ],
+                "Josh Hart": [
+                    "1.5",
+                    {
+                        "team": "NYK",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Josh_Hart_d6fbf8f8-bb4a-43f7-95f6-498a5e042138.webp"
+                    }
+                ],
+                "James Harden": [
+                    "1.5",
+                    {
+                        "team": "LAC",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/James_Harden_a52b2c84-9c3d-4d6e-8a3b-10e75d11c2bc.webp"
+                    }
+                ],
+                "Terance Mann": [
+                    "0.5",
+                    {
+                        "team": "LAC",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Terance_Mann_a6cc820a-8dce-40aa-840c-f0c94cfa9e46.webp"
+                    }
+                ],
+                "Pascal Siakam": [
+                    "1.5",
+                    {
+                        "team": "IND",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Pascal_Siakam_3df1db1d-6596-489e-8e26-80f60fd9b1f4.webp"
+                    }
+                ],
+                "Myles Turner": [
+                    "2.5",
+                    {
+                        "team": "IND",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Myles_Turner_323f9ef8-ecdd-41a7-859e-dd3db48ba913.webp"
+                    }
+                ],
+                "Bobby Portis": [
+                    "1.5",
+                    {
+                        "team": "MIL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Bobby_Portis_68b7aac9-02fd-4bd8-b10c-6702d2c5eb98.webp"
+                    }
+                ],
+                "Patrick Beverley": [
+                    "1.5",
+                    {
+                        "team": "MIL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Patrick_Beverley_912e7aa3-dd03-4a98-9980-0442e108f287.webp"
+                    }
+                ],
+                "Devin Booker": [
+                    "1.5",
+                    {
+                        "team": "PHX",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Devin_Booker_31baa84f-c759-4f92-8e1f-a92305ade3d6.webp"
+                    }
+                ]
+            },
+            "Turnovers": {
+                "Isaiah Hartenstein": [
+                    "1.5",
+                    {
+                        "team": "NYK",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Isaiah_Hartenstein_38745a56-7472-4844-a2dc-f61d3bcd941f.webp"
+                    }
+                ],
+                "Tyrese Maxey": [
+                    "2.5",
+                    {
+                        "team": "PHI",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Tyrese_Maxey_75fc46eb-71d8-4d1a-984f-3747ccd7a4c9.webp"
+                    }
+                ],
+                "Miles McBride": [
+                    "0.5",
+                    {
+                        "team": "NYK",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Miles_McBride_355a6113-d842-40be-9e74-90bb0800aabe.webp"
+                    }
+                ],
+                "Luka Doncic": [
+                    "4.5",
+                    {
+                        "team": "DAL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Luka_Doncic_d2ee92e9-3e72-45eb-b156-2dc5adc1e6f7.webp"
+                    }
+                ],
+                "Daniel Gafford": [
+                    "0.5",
+                    {
+                        "team": "DAL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Daniel_Gafford_52cd8137-c791-4569-ad70-433e25d34882.webp"
+                    }
+                ],
+                "Ivica Zubac": [
+                    "1.5",
+                    {
+                        "team": "LAC",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Ivica_Zubac_2da18268-82d4-4b40-a296-7ceddd435d0b.webp"
+                    }
+                ],
+                "Terance Mann": [
+                    "0.5",
+                    {
+                        "team": "LAC",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Terance_Mann_a6cc820a-8dce-40aa-840c-f0c94cfa9e46.webp"
+                    }
+                ],
+                "Patrick Beverley": [
+                    "1.5",
+                    {
+                        "team": "MIL",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Patrick_Beverley_912e7aa3-dd03-4a98-9980-0442e108f287.webp"
+                    }
+                ],
+                "Obi Toppin": [
+                    "0.5",
+                    {
+                        "team": "IND",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Obi_Toppin_ed000754-fb2c-4778-be6d-40cfc2400bd7.webp"
+                    }
+                ],
+                "Anthony Edwards": [
+                    "3.5",
+                    {
+                        "team": "MIN",
+                        "day": "Sunday",
+                        "img_src": "https://static.prizepicks.com/images/players/nba/Anthony_Edwards_d0c7135a-1aea-40cb-ba20-df656de71749.webp"
+                    }
+                ]
+            }
+        }
+    }
+]
